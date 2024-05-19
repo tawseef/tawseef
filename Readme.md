@@ -36,8 +36,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tawseef/tawseef/output/snake.svg" alt="Snake animation" />
-
 ###
