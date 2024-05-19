@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tawseef Alam and I'm a Full Stack Developer :)</p>
+<h3 align="left">My name is </h3><h2>Tawseef Alam</h2> and I'm a Full Stack Developer :)</h3>
 
 ###
 
